@@ -1,0 +1,28 @@
+{
+  "identifier" : "Boardline",
+  "nonRenewingSubscriptions" : [],
+  "products" : [
+    {
+      "displayPrice" : "3.99",
+      "familyShareable" : false,
+      "internalID" : "boardline_pro",
+      "localizations" : [
+        {
+          "description" : "Care instruction sheet generator to hand off to sitters",
+          "displayName" : "Boardline Pro",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "boardline_pro",
+      "referenceName" : "Boardline Pro",
+      "type" : "NonConsumable"
+    }
+  ],
+  "settings" : {
+  },
+  "subscriptionGroups" : [],
+  "version" : {
+    "major" : 3,
+    "minor" : 0
+  }
+}
