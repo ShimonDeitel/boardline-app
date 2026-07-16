@@ -35,7 +35,6 @@ targets:
     platform: iOS
     sources:
       - path: BoardlineTests
-      - path: Boardline.storekit
     dependencies:
       - target: Boardline
     settings:
